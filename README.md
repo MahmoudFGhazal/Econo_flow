@@ -38,6 +38,8 @@ Agradecimentos:
 - Fabio Codo (Professor)
 - Clarisse Siqueira (Designer da Logo)
   https://www.linkedin.com/in/clarisse-siqueira/
+
   <img width="200px" src="https://img.notionusercontent.com/s3/prod-files-secure%2Faa896496-5195-4504-a425-a04ce553f654%2F43c54a9e-588a-4968-b70e-1b6ee35f0189%2FLogo_Simples.svg/size/?exp=1749404479&sig=Zf7hdLmFmX4iYow8t7UMl-wnEDTiRFhfsO436Cr8GGo&id=3330f266-dd8b-4713-8e5e-5fa3a0b730e0&table=block" />
   <img width="600px" src="https://img.notionusercontent.com/s3/prod-files-secure%2Faa896496-5195-4504-a425-a04ce553f654%2Fbc4e9ba4-6e57-4880-b0f0-225d96102b83%2FGroup_1_(1).png/size/w=1830?exp=1749404480&sig=WZOTeWmIZgA3yEoUKUdFasAAXMo5PITmXyTvMOdF9JY&id=3330f266-dd8b-4713-8e5e-5fa3a0b730e0&table=block" />
+  
 
