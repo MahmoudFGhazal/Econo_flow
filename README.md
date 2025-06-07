@@ -1,4 +1,4 @@
-# Econo_flow
+# Econo Flow
 Trabalho Universitário para o planejamento de um projeto fictício. 
 
 Objetivo:
